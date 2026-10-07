@@ -1,0 +1,7 @@
+{
+  "name": "syncwave-live-audio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "wrangler dev", "deploy": "wrangler deploy" },
+  "devDependencies": { "wrangler": "^4" }
+}
